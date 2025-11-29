@@ -68,4 +68,3 @@ Este é um guia conciso sobre o conteúdo de um curso introdutório à **Linguag
 
 * **Explorar Projetos:** Aplique os conceitos a um conjunto de dados real.
 * **Aprofundar em Pacotes:** Estude o ecossistema `tidyverse` em mais detalhes.
-* 
